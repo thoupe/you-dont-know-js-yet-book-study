@@ -3,7 +3,7 @@
 - 이름 변경 과정: Mocha -> LiveScript -> JavaScript
 - Java 언어의 인기와 마케팅적 연관성을 위해 이름을 JavaScript로 결정.
 - ECMA 인터내셔널이 관리하며, 표준 이름은 ECMAScript.
-- JS6, ES6 등은 틀린 이름이며, ES20xx 등이 공식 명칭에 적합.
+- JS6, ES6 보다는, ES20xx 등이 공식 명칭에 적합.
 
 ## 명세서
 [ECMAScript 명세서 링크](https://262.ecma-international.org/)
