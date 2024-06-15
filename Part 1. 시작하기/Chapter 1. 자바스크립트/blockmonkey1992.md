@@ -7,8 +7,6 @@
 
 ## 명세서
 [ECMAScript 명세서 링크](https://262.ecma-international.org/)
-
-### 개요
 - TC39: JavaScript를 관리하는 기술 운영 위원회로, JS 공식 명세를 관리.
 - 모든 제안은 5단계 절차를 거침:
     - **Stage 0: Strawman (아이디어 단계)**: 초기 아이디어를 공유하고 토론.
