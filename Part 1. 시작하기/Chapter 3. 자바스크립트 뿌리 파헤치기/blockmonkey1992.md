@@ -69,7 +69,7 @@ for(let [idx, val] of vals.entries()) {
 - 클로저는 자바스크립트 고유의 개념이 아니므로 ECMAScript 명세에 클로저의 정의가 등장하지 않는다.
 
 ### Example of clousure
-```
+```js
 // 상위함수 increaseCounter
 function increaseCounter() {
     // 이 Count 값이 Garbage Collector의 대상이 되어 삭제될 것(0으로 초기화)이 정상이나, 사라지지 않음.
