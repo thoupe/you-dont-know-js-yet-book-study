@@ -15,6 +15,7 @@
 
 ### 진행 방식
 - 매주 정해진 분량을 읽고 GitHub에 정리한 내용을 `*.md` 형식으로 업로드 합니다.
+- 예제코드: https://github.com/getify/You-Dont-Know-JS
 
 ### 타임라인
 
